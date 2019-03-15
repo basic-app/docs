@@ -6,6 +6,8 @@
 
 ## System Requirements
 
+## Support
+
 ## Table of Content
 
  - [Installation](#)
@@ -26,4 +28,4 @@
  - [Image Manipulation](#)
  - [Sending E-mail](#)
 
-Copyright &copy; 2018 - 2019 Basic App
+Copyright &copy; Basic App 2018 - 2019
