@@ -6,6 +6,11 @@
 
 ## System Requirements
 
+ - PHP 7.3
+ - MySQL
+ - Composer
+ - Bower
+
 ## Support
 
 ## Table of Content
@@ -13,6 +18,7 @@
  - [Installation](#)
  - [Creating Modules](#)
  - [Backend](#)
+ - [Views](#)
  - [Themes](#)
  - [Internationalization](#)
  - [Models](#)
@@ -20,17 +26,18 @@
  - [Filter Model](#)
  - [Store Configs in Database](#) 
  - [Entities](#)
- - [CRUD Controller](#)
- - [Pagination](#)
- - [Model Behaviors](#)
+ - [Relations](#)
  - [Actions](#)
+ - [CRUD Controller](#)
+ - [Model Behaviors](#)
  - [Using RBAC](#)
  - [Image Manipulation](#)
  - [Sending E-mail](#)
- 
+ - [Pagination](#)
+  
 ## Modules
 
- - [Site](#)
+ - [Site](#) - text pages, layout blocks, menus
  - [Blog](#)
 
 Copyright &copy; Basic App 2018 - 2019
