@@ -23,7 +23,7 @@ The basic assembly of the system includes modules for the administrator section,
 
 ## Table of Content
 
-  - Installation
+  - [Installation](installation.md)
   - Creating Modules
   - Extending Core Classes
   - Extending Views
