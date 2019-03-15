@@ -26,13 +26,13 @@ The basic assembly of the system includes modules for the administrator section,
   - Installation
   - Creating Modules
   - Extending Core Classes
+  - Extending Views
   - Using Events  
   - Backend
   - Using RBAC
   - Actions
   - Behaviors
   - CRUD
-  - Cascade Views
   - [Themes](blog/themes.md)
   - Models
   - Entities
