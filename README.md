@@ -21,26 +21,27 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
 
 ## Table of Content
 
-  - [Installation](#)
-  - [Creating Modules](#)
-  - [Using Events](#)  
-  - [Backend](#)
-  - [Using RBAC](#)
-  - [Actions](#)
-  - [Behaviors](#)
-  - [CRUD](#)
-  - [Cascade Views](#)
-  - [Themes](#)
-  - [Models](#)
-  - [Entities](#)
-  - [Relations](#)
-  - [Internationalization](#)
-  - [Translate Model Attributes](#)
-  - [Filter Model](#)
-  - [Store Configs in Database](#) 
-  - [Image Manipulation](#)
-  - [Sending E-mail](#)
-  - [Pagination](#)
+  - Installation
+  - Creating Modules
+  - Extending Core Classes
+  - Using Events  
+  - Backend
+  - Using RBAC
+  - Actions
+  - Behaviors
+  - CRUD
+  - Cascade Views
+  - Themes
+  - Models
+  - Entities
+  - Relations
+  - Internationalization
+  - Translate Model Attributes
+  - Filter Model
+  - Store Configs in Database
+  - Image Manipulation
+  - Sending E-mail
+  - Pagination](blog/1-theming-codeigniter-4-pager-in-bootstrap-4-style.md)
   
 ## Modules
 
