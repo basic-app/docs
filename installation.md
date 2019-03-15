@@ -15,13 +15,13 @@ Rename the file named "env" to ".env". Configure base site url, timezone, and da
 
 ## Step 3
 
-Run migrations:
+Run migrations using following command:
 
 `php spark migrate:latest -all`
     
 ## Step 4
 
-Install Bower libraries:
+Installs the project dependencies:
 
 `bower install`
     
