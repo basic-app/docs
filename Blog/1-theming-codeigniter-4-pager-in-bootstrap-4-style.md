@@ -36,12 +36,12 @@ You can set the "$surroundCount" variable from application code dynamically.
 ```
 $config = config('Pager'); // get pager config
 
-$surroundCount = $config->surroundCount; // set new surrount count value
+$surroundCount = $config->surroundCount; // save current surrount count value
 
 $config->surroundCount = 5; // new surround count value
 
 echo $pager->links('default', 'bootstrap4'); // generate pagination
 
-$config->surroundCount = $surroundCount;// restore surround count 
+$config->surroundCount = $surroundCount;// restore original surround count value 
 
 ```
