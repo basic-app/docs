@@ -12,6 +12,8 @@
 
  - [Installation](#)
  - [Modules](#)
+  - [Site Module](#)
+  - [Blog Module](#)
  - [Backend](#)
  - [Themes](#)
  - [Internationalization](#)
