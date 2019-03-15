@@ -41,7 +41,7 @@ Run the "cron" command every 5 minutes using Cron:
 
 `php spark cron`
     
-## Backend
+## Access Backend
 
 Access application backend in your brower by opening "example.com/admin" url.
 ```
