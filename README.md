@@ -33,7 +33,7 @@ The basic assembly of the system includes modules for the administrator section,
   - Behaviors
   - CRUD
   - Cascade Views
-  - [Themes] (blog/themes.md)
+  - [Themes](blog/themes.md)
   - Models
   - Entities
   - Relations
