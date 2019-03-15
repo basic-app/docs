@@ -27,7 +27,7 @@ Install Bower libraries:
     
 ## Step 5
 
-Set document root of your web server to `/public` directory.
+Set document root of your web server to "/public" directory.
    
 ## Step 6
 
