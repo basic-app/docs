@@ -42,6 +42,6 @@ $config->surroundCount = 5; // set new value
 
 echo $pager->links('default', 'bootstrap4'); // generate pagination
 
-$config->surroundCount = $surroundCount; // restore the original value 
+$config->surroundCount = $surroundCount; // restore original value 
 
 ```
