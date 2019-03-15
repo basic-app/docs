@@ -25,13 +25,13 @@ echo $pager->links('default', 'bootstrap4');
 
 ### Additional Settings:
 
-You can specify how many links you need to create on each side of the active link. Add a public variable $surroundCount in the pager config file: "/Config/Pager.php".
+You can specify how many links you need to create on each side of the active link. Add a public variable "$surroundCount" in the pager config file: "/Config/Pager.php".
 
 ```
 public $surroundCount = 3;
 ```
 
-You can set the "$surroundCount" variable from application code dynamically.
+You can set the "$surroundCount" variable dynamically from application code.
 
 ```
 $config = config('Pager'); // get pager config
