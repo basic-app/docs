@@ -41,7 +41,7 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
   - Store Configs in Database
   - Image Manipulation
   - Sending E-mail
-  - Pagination](blog/1-theming-codeigniter-4-pager-in-bootstrap-4-style.md)
+  - [Pagination](blog/1-theming-codeigniter-4-pager-in-bootstrap-4-style.md)
   
 ## Modules
 
