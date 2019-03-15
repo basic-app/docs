@@ -43,7 +43,7 @@ Run the "cron" command every 5 minutes using Cron:
     
 ## Backend
 
-Access application backend in your brower by opening `http://example.com/admin` url.
+Access application backend in your brower by opening "http://example.com/admin" url.
 ```
 login: admin
 password: admin
