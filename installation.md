@@ -31,7 +31,7 @@ Set document root of your web server to `/public` directory.
    
 ## Step 6
 
-Run `install` application hook.
+Run "install" application hook.
 
 `php spark install`
 
@@ -49,4 +49,4 @@ login: admin
 password: admin
 ```
 
-Change the password to another via backend web interface.
+Please change the password to another via backend web interface.
