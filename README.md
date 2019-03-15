@@ -37,7 +37,18 @@
   
 ## Modules
 
- - [Site](#) - text pages, layout blocks, menus
- - [Blog](#)
+- [Site](#)
+- [Blog](#)
+
+### Site
+
+  - [Pages](#)
+  - [Blocks](#)
+  - [Menus](#)
+
+### Blog
+
+- [Site](#)
+- [Blog](#)
 
 Copyright &copy; Basic App 2018 - 2019
