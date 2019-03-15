@@ -3,25 +3,25 @@ Installation
 
 ## Step 1
 
-You can install the application using Composer via the following command:
+Install the application via Composer with the following command:
 
 `composer create-project --stability=dev --remove-vcs --prefer-dist basic-app/basic-app demoapp`
 
-The command installs the application in a directory named `demoapp`. You can choose a different directory name if you want.
+The command installs the application in a directory named "demoapp". You can choose a different directory name if you want.
 
 ## Step 2
 
-Rename the file named `env` to `.env`. Configure base site url, timezone, and database connection settings in the `.env` file.
+Rename the file named "env" to ".env". Configure base site url, timezone, and database connection settings in the ".env" file.
 
 ## Step 3
 
-Run migrations.
+Run migrations:
 
 `php spark migrate:latest -all`
     
 ## Step 4
 
-Install Bower libraries.
+Install Bower libraries:
 
 `bower install`
     
@@ -31,14 +31,14 @@ Set document root of your web server to `/public` directory.
    
 ## Step 6
 
-Run `install` application hook.
+Run "install" application hook:
 
 `php spark install`
 
 ## Step 7
 
-Run a CRON job every 5 minutes
-`5 * * * * php spark cron5` 
+Run a CRON job every 5 minutes:
+`5 * * * * php spark cron` 
     
 ## Backend
 
