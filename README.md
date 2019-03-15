@@ -10,10 +10,12 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
 
 ## System Requirements
 
+  - Webserver (Apache, NGINX)
   - PHP 7.3
-  - MySQL
+  - Database (MySQL, SQLite, Postgre)
   - Composer
   - Bower
+  - Cron
 
 ## Support
 
