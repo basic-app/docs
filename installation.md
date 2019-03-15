@@ -26,22 +26,22 @@ Apply migrations using the following command:
 Installs the project dependencies:
 
 `bower install`
-    
-## Step 5
-
-Set the document root of your web server to "/public" directory.
    
-## Step 6
+## Step 5
 
 Run the "install" hook:
 
 `php spark install`
 
-## Step 7
+## Step 6
 
 Run the "cron" command every 5 minutes using Cron:
 
 `php spark cron`
+
+## Step 7
+
+Set the document root of your web server to "/public" directory.
     
 ## Access Backend
 
