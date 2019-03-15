@@ -31,7 +31,7 @@ You can specify how many links you need to create on each side of the active lin
 public $surroundCount = 3;
 ```
 
-You can set the "$surroundCount" variable dynamically from application code.
+You can set the "$surroundCount" variable from application code dynamically.
 
 ```
 $config = config('Pager'); // get pager config
