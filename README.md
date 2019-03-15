@@ -2,6 +2,10 @@
 
 ## Overview
 
+Basic App is a free, open-source, self-hosted CMS platform based on the CodeIgniter 4 PHP Framework.
+
+Basic App is designed to provide a quick start for sites made on CodeIgniter 4 and to take over the implementation of the basic functions of a modern web application. The system has a modular architecture that allows to expand it with new functions and to replace the basic components. Base modules use inheritance for their classes that allows to manage their functionality without interfering with the source code. Modules support events to provide flexible interaction between modules.
+
 ## Features
 
 ## System Requirements
