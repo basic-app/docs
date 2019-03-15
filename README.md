@@ -8,6 +8,8 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
 
 ## Features
 
+The basic assembly of the system includes modules for the administrator section, managing administrators and their roles, managing translations of interface elements into your native language, managing configs, text pages, text blocks, and navigation menus.
+
 ## System Requirements
 
   - Webserver (Apache, NGINX)
@@ -31,7 +33,7 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
   - Behaviors
   - CRUD
   - Cascade Views
-  - Themes
+  - [Themes] (blog/themes.md)
   - Models
   - Entities
   - Relations
