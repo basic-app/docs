@@ -47,12 +47,10 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
 
 ### Site
 
-  - [Pages](#)
-  - [Blocks](#)
-  - [Menus](#)
+  - Pages
+  - Blocks
+  - Menus
 
 ### Blog
-
-  - [Blog](#)
 
 Copyright &copy; Basic App 2018 - 2019
