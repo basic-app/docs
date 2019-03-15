@@ -11,10 +11,7 @@
 ## Table of Content
 
  - [Installation](#)
- - Modules
-   - [About Modules](#)
-   - [Site](#)
-   - [Blog](#)
+ - [Creating Modules](#)
  - [Backend](#)
  - [Themes](#)
  - [Internationalization](#)
@@ -30,5 +27,10 @@
  - [Using RBAC](#)
  - [Image Manipulation](#)
  - [Sending E-mail](#)
+ 
+## Modules
+
+ - [Site](#)
+ - [Blog](#)
 
 Copyright &copy; Basic App 2018 - 2019
