@@ -2,13 +2,13 @@ CodeIgniter 4 pager generates a non-compatible with Bootstrap 4 HTML code. We of
 
 ### Installation:
 
-1. Install the "basic-app/bootstrap4" library via Composer.
+1. Install the "basic-app/bootstrap4" library via Composer:
 
 ```
 composer require "basic-app/bootstrap4:dev-master"
 ```
 
-2. Add the Bootstrap 4 template in the application pager config file: "/Config/Pager.php".
+2. Add the Bootstrap 4 template in the application pager config file: "/Config/Pager.php":
 
 ```
 public $templates = [
@@ -31,7 +31,7 @@ You can specify how many links you need to create on each side of the active lin
 public $surroundCount = 3;
 ```
 
-You can set the "$surroundCount" variable from application code dynamically.
+You can set the "$surroundCount" variable from application code dynamically:
 
 ```
 $config = config('Pager'); // get pager config
