@@ -15,13 +15,13 @@ Rename the file named "env" to ".env". Configure base site url, timezone, and da
 
 ## Step 3
 
-Run migrations.
+Run migrations:
 
 `php spark migrate:latest -all`
     
 ## Step 4
 
-Install Bower libraries.
+Install Bower libraries:
 
 `bower install`
     
@@ -31,15 +31,15 @@ Set document root of your web server to `/public` directory.
    
 ## Step 6
 
-Run "install" application hook.
+Run the "install" hook:
 
 `php spark install`
 
 ## Step 7
 
-Run a CRON job every 5 minutes:
+Run the "cron" command every 5 minutes using Cron:
 
-`5 * * * * php spark cron5` 
+`php spark cron`
     
 ## Backend
 
