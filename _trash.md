@@ -8,3 +8,5 @@ $psr4 = [
 ```
 
 The basic part of the system is a micro-core, which does not depend on external libraries. Classes from the Basic App Core package can be used in any CodeIgniter 4 application.
+
+The basic application contains the base modules already connected via Composer.

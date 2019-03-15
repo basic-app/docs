@@ -1,6 +1,8 @@
 Installation
 ============
 
+To get started with Basic App, you need to install the "basic-app/basic-app" package through Composer, or download it from GitHub directly. This is a basic application, it is downloaded once, and then you modify and customize it for your project.
+
 ## Step 1
 
 Install the application via Composer with the following command:
@@ -11,11 +13,11 @@ The command installs the application in a directory named "demoapp". You can cho
 
 ## Step 2
 
-Rename the file named "env" to ".env". Configure base site url, timezone, and database connection settings in the ".env" file.
+Rename the file named "env" to ".env". Configure a base site url, timezone, and database connection settings in the ".env" file.
 
 ## Step 3
 
-Run migrations using following command:
+Apply migrations using the following command:
 
 `php spark migrate:latest -all`
     
@@ -27,7 +29,7 @@ Installs the project dependencies:
     
 ## Step 5
 
-Set document root of your web server to "/public" directory.
+Set the document root of your web server to "/public" directory.
    
 ## Step 6
 
@@ -43,10 +45,10 @@ Run the "cron" command every 5 minutes using Cron:
     
 ## Access Backend
 
-Access application backend in your brower by opening "example.com/admin" url.
+Access an application backend in your brower by opening "example.com/admin" url.
 ```
 login: admin
 password: admin
 ```
 
-Please change the password to another via backend web interface.
+Please change the password to another using backend web interface.
