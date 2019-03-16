@@ -21,6 +21,10 @@ The basic assembly of the system includes modules for the administrator section,
 
 ## Support
 
+We provide technical support to system users and developers on our support forum. 
+
+If you have the commercial offers, please contact us by the e-mail dev@basic-app.com, we will be glad to create for you a website or a module to order.
+
 ## Table of Content
 
   - [Installation](installation.md)

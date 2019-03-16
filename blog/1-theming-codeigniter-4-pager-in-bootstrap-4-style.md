@@ -1,3 +1,8 @@
+Theming CodeIgniter 4 pager in Bootstrap 4 style
+================================================
+
+Ready-made solution to design a Codeigniter 4 pager in Bootstrap 4 style.
+
 CodeIgniter 4 pager generates a non-compatible with Bootstrap 4 HTML code. We offer you to use a ready-made solution to design a CodeIgniter 4 pager in Bootstrap 4 style.
 
 ### Installation:
