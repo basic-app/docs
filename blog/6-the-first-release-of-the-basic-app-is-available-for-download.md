@@ -16,4 +16,4 @@ The system is distributed under the [MIT licence](https://en.wikipedia.org/wiki/
 
 Basic App Dev Team offers services for creating websites on the Basic App, integrating ready-made themes, and developing additional modules for the Basic App. Email us at [support@basic-app.com](mailto:support@basic-app.com) if you have questions or suggestions for us.
 
-We are waiting for a backlash from you, your advice will help us to make the system better together. Write your ideas on the official CodeIgniter forum in [the Basic App thread], we are open for discussion.
+We are waiting for a backlash from you, your advice will help us to make the system better together. Write your ideas on the official (CodeIgniter forum)[https://forum.codeigniter.com/] in [the Basic App thread], we are open for discussion.
