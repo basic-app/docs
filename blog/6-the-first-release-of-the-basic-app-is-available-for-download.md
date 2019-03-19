@@ -3,7 +3,7 @@ The first release of the Basic App is available for download
 
 We are pleased to inform you about the release of the public version of the Basic App. The first version of the system implements the management of text pages and a simple blog. In the Basic App, the [Cool Admin](https://github.com/puikinsh/CoolAdmin) theme is integrated into site backend, and the public part is done with the [Clean Blog](https://startbootstrap.com/themes/clean-blog) theme. Themes in the system are placed in external [Composer](https://getcomposer.org/) packages, you can easily change the design of the entire site without interfering with the system code. The system is made extensible, the classes in the system modules use the object-oriented programming inheritance, you can easily extend them with new functions.
 
-![Basic App backend preview](screen_pages.png)
+![Basic App backend preview](https://github.com/basic-app/docs/blob/master/screen_pages.png?raw=true)
 
 The Basic App aims to be a reliable foundation for your [CodeIgniter 4](https://github.com/codeigniter4/CodeIgniter4) based site. The system implements management of administrators, management of access roles to different backend area sections, storing of configs in database and management of them from backend. The Basic App has management of the templates of e-mail messages sent from the site, management of SMTP server settings from the backend, management of the site menus. The [PHPMailer](https://github.com/PHPMailer/PHPMailer) package is integrated to send messages from site.
 
