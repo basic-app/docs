@@ -1,3 +1,5 @@
+composer create-project --stability=dev --remove-vcs --prefer-dist basic-app/basic-app demoapp
+
 2. Add library in the application class loader config file: "/Config/Autoload.php".
 
 ```
