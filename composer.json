@@ -1,0 +1,8 @@
+{
+    "name": "basic-app/docs",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Docs\\": ""
+        }
+    }
+}
