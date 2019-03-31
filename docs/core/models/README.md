@@ -1,5 +1,4 @@
-[Basic App Models](http://basic-app.com/docs/core/models)
-=========================================================
+# [Basic App Models](http://basic-app.com/docs/core/models)
 
 [Documentation](/docs) / [Core](/docs/core)
 
