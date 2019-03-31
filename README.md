@@ -2,7 +2,7 @@
 
 Basic App is a free, open-source, self-hosted CMS platform based on the CodeIgniter 4 PHP framework.
 
-## [Documentation](/docs)
+[Documentation](/docs)
 
 #### Overview:
 
