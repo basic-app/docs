@@ -4,5 +4,3 @@
 [Documentation](/docs)
 
   - [Models](/docs/core/models)
-  - [Views](/docs/core/views)
-  - [Controllers](/docs/core/controllers)
