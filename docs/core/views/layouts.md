@@ -1,6 +1,6 @@
 # [Basic App Layouts](http://basic-app.com/docs/core/views/layouts.md)
 
-## Usage
+#### Usage
 
 ```
 class Welcome extends \BasicApp\Controller
