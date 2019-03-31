@@ -1,4 +1,4 @@
 [Basic App Documentation](http://basic-app.com/docs)
 ====================================================
 
-  - [Core](/docs/core)
+  - [Basic App Core](/docs/core)
