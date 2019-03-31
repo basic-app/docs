@@ -12,3 +12,28 @@ $psr4 = [
 The basic part of the system is a micro-core, which does not depend on external libraries. Classes from the Basic App Core package can be used in any CodeIgniter 4 application.
 
 The basic application contains the base modules already connected via Composer.
+
+## Table of Content
+
+  - [Installation](installation.md)
+  - Creating Modules
+  - Extending Core Classes
+  - Extending Views
+  - Using Events  
+  - Backend
+  - Using RBAC
+  - Actions
+  - Behaviors
+  - CRUD
+  - [Themes](blog/themes.md)
+  - Models
+  - Entities
+  - Relations
+  - Internationalization
+  - Translate Model Attributes
+  - Filter Model
+  - Store Configs in Database
+  - Image Manipulation
+  - Cron Tasks
+  - Sending E-mail
+  - [Pagination](blog/1-theming-codeigniter-4-pager-in-bootstrap-4-style.md)
