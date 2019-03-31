@@ -37,3 +37,5 @@ The basic application contains the base modules already connected via Composer.
   - Cron Tasks
   - Sending E-mail
   - [Pagination](blog/1-theming-codeigniter-4-pager-in-bootstrap-4-style.md)
+  
+  We provide technical support to system users and developers on our support forum. 

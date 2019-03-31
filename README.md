@@ -2,7 +2,7 @@
 
 Basic App is a free, open-source, self-hosted CMS platform based on the CodeIgniter 4 PHP framework.
 
-[Documentation](/docs)
+[Basic App Documentation](/docs)
 
 #### Overview:
 
@@ -16,15 +16,11 @@ The basic assembly of the system includes modules for the administrator section,
 
 ## System Requirements
 
-  - Webserver (Apache, NGINX)
+  - Webserver (Apache, NGINX, etc...)
   - PHP 7.3
-  - Database (MySQL, SQLite, Postgre)
+  - Database (MySQL, SQLite*, Postgre*)
   - Composer
-  - Bower
   - Cron
+  - Bower (optional)
 
-## Support
-
-We provide technical support to system users and developers on our support forum. 
-
-If you have the commercial offers, please contact us by the e-mail dev@basic-app.com, we will be glad to create for you a website or a module to order.
+If you have a commercial offers, please email us at [dev@basic-app.com](mailto://dev@basic-app.com), we will be glad to create a website or a module to order.
