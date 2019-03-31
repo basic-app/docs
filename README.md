@@ -10,8 +10,6 @@ Basic App is designed to provide a quick start for sites made on CodeIgniter 4 a
 
 The basic assembly of the system includes modules for the administrator section, managing administrators and their roles, managing translations of interface elements into your native language, managing configs, text pages, text blocks, and navigation menus.
 
-  - [Documentation](/docs)
-
 ![Basic App backend preview](https://github.com/basic-app/docs/blob/master/screen_pages.png?raw=true)
 
 ## System Requirements
@@ -28,3 +26,5 @@ The basic assembly of the system includes modules for the administrator section,
 We provide technical support to system users and developers on our support forum. 
 
 If you have the commercial offers, please contact us by the e-mail dev@basic-app.com, we will be glad to create for you a website or a module to order.
+
+## [Documentation](/docs)
