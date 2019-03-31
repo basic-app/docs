@@ -1,7 +1,7 @@
 ﻿Labels of CodeIgniter 4 model attributes in Basic App
 =====================================================
 
-[Documentation](/docs) / [Core](/docs/core) / [Models](/docs/core)
+[Documentation](/docs) / [Core](/docs/core) / [Models](/docs/core/models)
 
 If you want to automate the receipt of the names of the attributes of CodeIgniter 4 models, then you can use the ready-made functions from the Basic App. In any model that inherits from BasicApp\Core\Model, you can define the protected attribute $labels. The value of this attribute is an array, which lists the names of the attributes of the model, and any other elements associated with this model. 
 

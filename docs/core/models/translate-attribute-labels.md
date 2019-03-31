@@ -1,5 +1,7 @@
-﻿Translation of the names of attributes of CodeIgniter 4 models in the Basic App
-=============================================================
+﻿[Translation of the names of attributes of CodeIgniter 4 models in the Basic App](http://basic-app.com/docs/core/models/translate-attribute-labels.md)
+===
+
+[Documentation](/docs) / [Core](/docs/core) / [Models](/docs/core/models)
 
 You define what you consider to be the names of the attributes in the $labels property in your model, which is inherited from the `BasicApp\Core\Model` class. In the Basic App there is no rule that the attribute is a required field in the database. This can be any message associated with a model.
 
