@@ -4,3 +4,4 @@
 [Documentation](/docs)
 
   - [Models](/docs/core/models)
+  - [Models](/docs/core/views)
