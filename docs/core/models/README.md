@@ -3,5 +3,5 @@
 
 [Documentation](/docs) / [Core](/docs/core)
 
-  - [Attribute Labels](/docs/core/models/attribute-labels)
-  - [Translate Attribute Labels](/docs/core/models/translate-attribute-labels)
+  - [Attribute Labels](/docs/core/models/attribute-labels.md)
+  - [Translate Attribute Labels](/docs/core/models/translate-attribute-labels.md)
