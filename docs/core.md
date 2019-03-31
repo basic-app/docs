@@ -3,6 +3,6 @@
 
 [Documentation](/docs)
 
-  - [Models](/docs/models)
-  - [Views](/docs/views)
-  - [Controllers](/docs/controllers)
+  - [Models](/docs/core/models)
+  - [Views](/docs/core/views)
+  - [Controllers](/docs/core/controllers)
