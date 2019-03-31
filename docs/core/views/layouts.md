@@ -2,7 +2,7 @@
 
 [Documentation](/docs) / [Core](/docs/core) / [Views](/docs/core/views)
 
-#### Usage
+#### Usage:
 
 ```
 class Welcome extends \BasicApp\Controller
