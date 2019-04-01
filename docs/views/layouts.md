@@ -1,6 +1,6 @@
-# [Basic App Layouts](http://basic-app.com/docs/core/views/layouts.md)
+# [Basic App Layouts](http://basic-app.com/docs/views/layouts.md)
 
-[Documentation](/docs) / [Core](/docs/core) / [Views](/docs/core/views)
+[Documentation](/docs) / [Views](/docs/views)
 
 #### Usage:
 

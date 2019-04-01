@@ -1,6 +1,6 @@
-# [Basic App Models](http://basic-app.com/docs/core/models)
+# [Basic App Models](http://basic-app.com/docs/models)
 
-[Documentation](/docs) / [Core](/docs/core)
+[Documentation](/docs) / Models
 
-  - [Attribute Labels](/docs/core/models/attribute-labels.md)
-  - [Translate Attribute Labels](/docs/core/models/translate-attribute-labels.md)
+  - [Attribute Labels](/docs/models/attribute-labels.md)
+  - [Translate Attribute Labels](/docs/models/translate-attribute-labels.md)
