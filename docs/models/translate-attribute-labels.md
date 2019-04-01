@@ -1,6 +1,6 @@
-﻿# [Translation of CodeIgniter 4 models attribute labels](http://basic-app.com/docs/core/models/translate-attribute-labels.md)
+﻿# [Translation of CodeIgniter 4 models attribute labels](http://basic-app.com/docs/models/translate-attribute-labels.md)
 
-[Documentation](/docs) / [Core](/docs/core) / [Models](/docs/core/models)
+[Documentation](/docs) / [Models](/docs/models)
 
 To translating a model attribute labels in backend, define the `$translations` variable in your model. The value of the variable is the name of the category in which the translations will appear in the backend of your website on CodeIgniter 4. 
 
@@ -36,4 +36,4 @@ As a result of this example, the text will be "Any String Text Value", translate
 
 Pay attention, the Basic App does not perform automated translation. Texts that you localize through the `t()` function and `MyModel::t()` fall into the backend section with translations, where the site administrator can translate them independently.
 
-[Read more about translations](/docs/core/translations.md)
+[Read more about translations](/docs/translations.md)

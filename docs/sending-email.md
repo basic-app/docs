@@ -1,6 +1,6 @@
-# [Sending email messages in Basic App](http://basic-app.com/docs/core/sending-emails.md)
+# [Sending email messages in Basic App](http://basic-app.com/docs/sending-email.md)
 
-[Documentation](/docs) / [Core](/docs/core)
+[Documentation](/docs)
 
 The [PHPMailer](https://github.com/PHPMailer/PHPMailer) library is responsible for sending messages to the Basic App. Basic App allows you to set basic settings for sending mail in the backend of the site through the web interface. You will need to specify the name and e-mail address of the sender, on behalf of whom your site will send letters to users. In addition, you can specify the SMTP server settings that will be used to send emails.
 

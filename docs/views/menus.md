@@ -1,6 +1,6 @@
-# [Working with menus](http://basic-app.com/docs/core/views/menus.md)
+# [Working with menus](http://basic-app.com/docs/views/menus.md)
 
-[Documentation](/docs) / [Core](/docs/core) / [Views](/docs/core/views)
+[Documentation](/docs) / [Views](/docs/views)
 
 In the Basic App backend, you can manage your site menu. You can add new menus, add and remove menu items, turn menu items on and off. For each menu item, you can configure additional attributes that allow you to customize them on the site.
 

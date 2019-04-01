@@ -1,6 +1,6 @@
-﻿# [Labels of CodeIgniter 4 model attributes in Basic App](http://basic-app.com/docs/core/models/attribute-labels.md)
+﻿# [Labels of CodeIgniter 4 model attributes in Basic App](http://basic-app.com/docs/models/attribute-labels.md)
 
-[Documentation](/docs) / [Core](/docs/core) / [Models](/docs/core/models)
+[Documentation](/docs) / [Models](/docs/models)
 
 If you want to automate working with attribute labels in CodeIgniter 4 models, then you can use the ready-made functions from the Basic App. In any models that inherits from `BasicApp\Core\Model`, you can define the protected attribute `$labels`. The value of this attribute is an array, which lists of the labels. In the Basic App there is no rule that the attribute is a existing field in the database. This can be any message associated with a model.
 
@@ -27,7 +27,7 @@ You can get the attributes as a list with the `getLabels()` function which retur
 public static function getLabels() : array;
 ```
 
-Always get the names of the attributes of the model through these functions, and not directly from the variable. Firstly, it will allow you to override the getting of attributes in the descendant classes, and secondly, in the Basic App there are functions for [translating model attributes](/docs/core/models/translate-attribute-labels.md) that work through these functions.
+Always get the names of the attributes of the model through these functions, and not directly from the variable. Firstly, it will allow you to override the getting of attributes in the descendant classes, and secondly, in the Basic App there are functions for [translating model attributes](/docs/models/translate-attribute-labels.md) that work through these functions.
 
 #### Getting the label of the model attribute:
 
