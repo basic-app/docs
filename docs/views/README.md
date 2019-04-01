@@ -4,3 +4,4 @@
 
   - [Layouts](/docs/views/layouts.md)
   - [Menus](/docs/views/menus.md)
+  - [Extending Views](/docs/views/extending-views.md)  
