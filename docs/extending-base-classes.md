@@ -8,7 +8,7 @@ All Basic App classes consist of two files. The first file contains the working 
 
 #### Example of use:
 
-Let`s say you want to complete the class of post in blog with new functions. The main entity class for a blog is the `BasicApp\Blog\Models\Blog` class, which extends the `BasicApp\Blog\Models\BlogBase` class. You need to create a new class inside the working directory of the application, for example in the `/app/ThirdParty/BasicApp/Blog/Models/BlogPost.php` file.
+Let's say you want to complete the class of post in blog with new functions. The main entity class for a blog is the `BasicApp\Blog\Models\Blog` class, which extends the `BasicApp\Blog\Models\BlogBase` class. You need to create a new class inside the working directory of the application, for example in the `/app/ThirdParty/BasicApp/Blog/Models/BlogPost.php` file.
 
 Technically, you can create a new class anywhere, but we recommend using this location for new classes to ensure consistency of projects on the Basic App. You can simply copy the file of the original class, which is located in the `/vendor/basic-app/module-blog/Models/BlogPost.php` file to a new location.
 
