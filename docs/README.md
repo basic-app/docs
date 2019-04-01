@@ -7,4 +7,5 @@
   - [Views](/docs/views)
     - [Layouts](/docs/views/layouts.md)
     - [Menus](/docs/views/menus.md)
+  - [Extending Base Classes](/docs/extending-base-classes.md)
   - [Sending Email](/docs/sending-email.md)
